@@ -43,7 +43,7 @@ header{
     margin-top: 24px;
     margin-left: 73px;
 }
-button{
+.btn{
     width: 208px;
     height:66px ;
     color:white ;
@@ -53,3 +53,295 @@ button{
     border-radius: 10px;
     border: none;
 }
+
+/* section-one */
+
+.why{
+    width:1140px ;
+    height:1280px ;
+    margin: 0 auto;
+    background-color: rgba(13, 19, 33, 0.02);
+    margin-top: 74px;
+}
+.why-container{
+    width: 946px;
+    height:1235px ;
+    margin: 80px 97px;
+}
+.why-text{
+    width:946px ;
+    height:163px;
+}
+
+.one-content{
+    width: 946px;
+    height: 336px;
+    /* border: 2px solid red; */
+    display: flex;
+    /* justify-content: center; */
+    
+}
+.two-content{
+    width: 946px;
+    height: 336px;
+    /* border: 2px solid red; */
+}
+.three-content{
+    width: 946px;
+    height: 336px;
+    /* border: 2px solid red; */
+}
+.why-h{
+    font-size:32px ;
+    font-weight:800px ;
+    color:rgb(13, 19, 33) ;
+    text-align: center;
+    margin-top: 24px;
+    
+}
+.why-p{
+    font-size:16px ;
+    font-weight:400px ;
+    color:rgb(13, 19, 33) ;
+    text-align: center;
+    margin-top: 24px;
+}
+.onr-h{
+    font-weight: 700px;
+    font-size: 24px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.one-p{
+    font-size:16px ;
+    font-weight:400px ;
+    color:rgb(13, 19, 33) ;
+    /* line-height: 90px; */
+}
+.one-btn{
+    width: 150px;
+    height: 48px;
+    background-color: 1px	Inside rgb(13, 19, 33);  
+    font-size:20px ;
+    font-weight:600px ;
+    color: black;
+    border: none;
+    margin-top: 50px;
+    
+}
+.one-img{
+    height:240px ;
+    width: 247px;
+    margin-left: 98px;
+    margin-right: 145px;
+    margin-top: 48px;
+}
+.one{
+    margin-top: 48px;
+    line-height:2;
+    margin-left: 48px;
+}
+.two-img{
+    height:240px ;
+    width:240px ;
+    margin-top: 48px;
+    margin-left: 48px;
+}
+.two{
+    width: 477px;
+    height: 220px;
+    margin-top:80px ;
+    margin-left: 32px;
+    /* line-height: 30px; */
+}
+.two-h{
+    font-weight: 700px;
+    font-size: 24px;
+    color: rgba(13, 19, 33, 0.7);
+    line-height: 20px;
+    line-height: 30px;
+}
+.two-p{
+    font-weight:400px ;
+    font-size:16px ;
+    color:rgb(13, 19, 33) ;
+    
+}
+.two-content{
+    display: flex;
+}
+.three{
+    height: 220px;
+    width:477px ;
+    margin-top: 58px;
+    margin-left: 48px;
+    /* border: 2px solid red; */
+    line-height: 65px;
+}
+.three-img{
+    height: 240px;
+    width: 240px;
+    /* border: 2px solid red; */
+    margin-top: 58px;
+}
+.three-content{
+    display: flex;
+}
+
+
+/* vedio add section */
+
+.vedio{
+    width:1140px ;
+    height: 777px;
+    margin: 0 auto;
+    border: 1px	Inside
+    rgba(13, 19, 33, 0.2);
+    margin-top: 88px;
+}
+.vedio-text{
+    height:152px ;
+    width:852px ;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.vedio-h{
+    font-size: 32px;
+    font-weight:800px ;
+    color: rgb(13, 19, 33);
+    line-height: 90px;
+}
+.vedio-p{
+    font-size:16px ;
+    font-weight:400px ;
+    color: rgb(13, 19, 33);
+    
+}
+.jhonkar{
+    height:550px ;
+    width:1076px ;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.terget{
+    height: 463px;
+    width: 1140px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    margin-top: 149px;
+}
+.terget-text{
+    height:115px ;
+    width:946px ;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.terget-h{
+    font-size:32px ;
+    font-weight:800px ;
+    color:rgb(13, 19, 33) ;
+}
+.terget-p{
+    font-size:18px ;
+    font-weight:400px ;
+    color:rgb(13, 19, 33) ;
+}
+.target-card{
+    height:300px ;
+    width:1140px ;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+    margin-top: 48px;
+}
+.card{
+    width: 364px;
+    height: 300px;
+    /* border: 2px solid red; */
+}
+.logo{
+    width:284px ;
+    height: 220px;
+    /* border: 2px solid red; */
+    display: flex;
+    margin: 0 auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+
+}
+.html{
+    width:56px ;
+    height:56px ;
+    
+    
+}
+.html-h{
+    margin-top: 40px;
+}
+.a-one{
+    font-weight: 700px;
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+}
+
+
+/* support sectoin */
+.support{
+    width:1140px ;
+    height:314px ;
+    border: 2px solid red;
+    margin: 0 auto;
+    background-image: url("../assets/handshake.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    margin-top: 41px;
+}
+.support-text{
+    height:104px ;
+    width:730px ;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    text-align: center;
+}
+.support-h{
+    font-weight: 700px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+.support-p{
+    font-size: 18px;
+    font-weight: 400px;
+    color:rgb(255, 255, 255) ;
+}
+.text-bar{
+    width: 584px;
+    height: 57px;
+    font-weight: 400px;
+    font-size: 16px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+.src{
+    width:120px ;
+    height:58px ;
+    font-size: 20px;
+    font-weight: 600px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+
