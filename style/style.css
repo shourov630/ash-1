@@ -304,7 +304,7 @@ header{
 .support{
     width:1140px ;
     height:314px ;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin: 0 auto;
     background-image: url("../assets/handshake.jpg");
     background-position: center;
@@ -314,6 +314,7 @@ header{
     align-items: center;
     gap: 50px;
     margin-top: 41px;
+    
 }
 .support-text{
     height:104px ;
